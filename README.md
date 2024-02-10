@@ -1,4 +1,4 @@
-# Customers-demographics
+# Customer-demographics
 This report provides insights into customer demographics and their corresponding account balances. By analyzing various demographic factors such as marital status, age group, education level, job type, personal loan status, and housing loan status, we aim to understand patterns and trends in customer behavior.
 
 
